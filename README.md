@@ -1,2 +1,3 @@
 # hello-word
-just another reposity
+只是另一个重复
+一堆我自己也不懂的东西
